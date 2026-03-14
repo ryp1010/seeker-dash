@@ -27,3 +27,6 @@ Seeker Dash is a professional, privacy-first dashboard designed exclusively for 
 3. **本地存储**：所有追踪数据仅物理存储于用户的本地设备中。
 4. **无第三方集成**：应用内未集成任何第三方分析或追踪插件。
 5. **用户责任**：用户需自行承担钱包安全责任。本应用仅提供只读监控功能。# seeker-dash
+## Copyright
+
+Copyright (c) 2026 [ryp1010]. All rights reserved.
